@@ -23,12 +23,12 @@ background-image: url("img/fondo2.jpg") ;
 .contenedor{
     width: 90%;
     max-width: 1000px;
-    color: #ebfffc;
+    color: #f7f1f1;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 20px 35px;
     text-align: center;
-    background-color: rgba(216, 216, 216, 0.226); /* Rojo con 50% de transparencia */
+    background-color: rgba(2, 2, 2, 0.644); /* Rojo con 50% de transparencia */
 
 
  
